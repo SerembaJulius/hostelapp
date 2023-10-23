@@ -44,6 +44,9 @@
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
     </form>
   </div>
+  <div>
+    <i class="bi bi-person"></i>
+  </div>
 </nav>
 </header>
   <app-root></app-root>
