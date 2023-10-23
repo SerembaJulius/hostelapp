@@ -45,7 +45,7 @@
     </form>
   </div>
   <div>
-    <i class="bi bi-person"></i>
+   <a class="avatar" href="#"> <i class="bi bi-person"></i></a>
   </div>
 </nav>
 </header>
